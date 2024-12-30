@@ -21,7 +21,7 @@ repository               : "YsGBt/ysgbt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "qp.png"
   name             : "Qishen Pang"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
