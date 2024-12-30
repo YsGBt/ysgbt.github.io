@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qishen Pang / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Qishen Pang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "qp.png"
   name             : "Qishen Pang"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "---"
   location         : "California, US"
   employer         : "Cornell University"
   uri              : # URL
