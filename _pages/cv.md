@@ -42,13 +42,13 @@ Work experience
   
 Skills
 ======
-* Programing Languages: <pre>Java | C/C++ | Python | HTML & CSS | JavaScript</pre>
-* Database: <pre>MySQL</pre>
-* Tools: <pre>IntelliJ | VS Code | Git</pre>
+* Programing Languages: Java \| C/C++ \| Python \| HTML & CSS \| JavaScript
+* Database: MySQL
+* Tools: IntelliJ \| VS Code \| Git
 
 Relevant Course
 ======
-* <pre>Applied High-Performance and Parallel Computing | Software Development | Algorithms & Data Structure | Computer Network | Database Design | Programming in C++ | Computer System | Object-Oriented Design</pre>
+* Applied High-Performance and Parallel Computing \| Software Development \| Algorithms & Data Structure \| Computer Network \| Database Design \| Programming in C++ \| Computer System \| Object-Oriented Design
 
 <!-- Publications
 ======
