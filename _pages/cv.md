@@ -11,37 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Computer Science, Cornell University, 2025 (expected)
+  * GPA: 4.18/4.3
+* B.S. in Computer Science, Northeastern University, 2024
+  * GPA: 3.95/4.0
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024 - August 2024: Research & Development Intern
+  * ByteDance, Beijing, China
+  * Duties included: 
+    * Developed a Lark mini-program for ByteDance’s ticketing system
+    * Designed and implemented a reactive programming framework for the Lark mini-program
+  * Supervisor: Chuan Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2023 - December 2023: Software Development TA
+  * Northeastern University
+  * Duties included:
+    * Assisted students with design questions in software development during office hours
+    * Organized meetings as the grading leader to standardize the grading process after assignment closures
+    * Offered constructive feedback on student work and conducted spot-check on grading and feedback from other TAs
+  * Supervisor: Professor Matthias Felleisen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Septermber 2022 - December 2022: Algorithms & Data TA
+  * Northeastern University
+  * Duties included: 
+    * Assisted students in understanding algorithms and data structures by utilizing clear and concise language, visual aids, and real-world examples during weekly office hours
+    * Provided timely and constructive feedback on course assignments, ensuring students understood and applied course concepts effectively
+  * Supervisor: Professor Rajmohan Rajaraman
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programing Languages: Java | C/C++ | Python | HTML & CSS | JavaScript
+* Database: MySQL
+* Tools: IntelliJ | VS Code | Git
 
-Publications
+Relevant Course
+======
+* Applied High-Performance and Parallel Computing | Software Development | Algorithms & Data Structure | Computer Network | Database Design | Programming in C++ | Computer System | Object-Oriented Design
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
